@@ -1,4 +1,4 @@
-package net.minecraft.almosted;
+package fr.almosted.MineBack;
 
 import java.awt.Color;
 import java.awt.Font;
